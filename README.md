@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JAVASCRIPT AND PYTHON
 - 💞️ I’m looking to contribute on open source
 - 📫 reach me at btyagi119@gmail.com
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhvya1912&hide=contribs,prs)
+
 
 <!---
 Bhavya1912/Bhavya1912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
