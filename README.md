@@ -1,4 +1,5 @@
-- [![Bhvaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavya1912)](https://github.com/anuraghazra/github-readme-stats)
+- [![Bhvaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavya1912&show_icons=true&theme= synthwave)
+
 
 - 👋 Hi, I’m @Bhavya1912
 - 👀 I’m interested in FULL STACK DEVELOPMENT, ARTIFICIAL INTELLIGENCE AND MHACHINE LEARNING
