@@ -1,5 +1,5 @@
 -  👋 Hi, I’m @Bhavya1912
-- 👀 I’m interested in FULL STACK DEVELOPMENT, ARTIFICIAL INTELLIGENCE AND MHACHINE LEARNING
+- 👀 I’m interested in Fullstack Development and Blockchain 
 - 🌱 I’m currently learning JAVASCRIPT AND PYTHON
 - 💞️ I’m looking to contribute on open source
 - 📫 reach me at btyagi119@gmail.com
