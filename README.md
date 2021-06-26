@@ -1,4 +1,4 @@
--  👋 Hi, I’m @Bhavya1912
+-  👋 Hi, I’m Bhavya1912
 - 👀 I’m interested in Fullstack Development and Blockchain 
 - 🌱 I’m currently learning JAVASCRIPT AND PYTHON
 - 💞️ I’m looking to contribute on open source
@@ -9,7 +9,7 @@
 Bhavya1912/Bhavya1912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">A developer from India</h1>
+<h1 align="center" style="font-family: 'Lucida Console'> A developer from India</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bhavya1912&label=Profile%20views&color=0e75b6&style=flat" alt="bhavya1912" /> </p>
 
