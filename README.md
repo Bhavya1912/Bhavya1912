@@ -48,4 +48,3 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya1912&theme=radical">
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Bhavya1912&theme=redical">
-
