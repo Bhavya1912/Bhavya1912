@@ -1,5 +1,5 @@
 ![Blue Illustrated General Grocery Supplies Online Service Grocery Facebook Cover (5)](https://github.com/Bhavya1912/banner/blob/main/Bhavya%20Tyagi.gif)
--  👋 Hi, I’m Bhavya1912
+-  👋 Hi, I’m Bhavya Tyagi
 - 👀 I’m interested in Decentralised Applications and Machine learning 
 - 🌱 I’m currently learning solidity and java
 - 💞️ I’m looking to contribute on open source
