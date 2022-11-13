@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to contribute on open source
 - 📫 reach me at btyagi119@gmail.com
-
+-  Read my papers at https://www.researchgate.net/profile/Bhavya-Tyagi-3
 
 <!---
 Bhavya1912/Bhavya1912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
