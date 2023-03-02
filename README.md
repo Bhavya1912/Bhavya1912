@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to contribute on open source
 - 📫 reach me at btyagi119@gmail.com
+- Read my blogs at https://medium.com/@btyagi119
 -  Read my papers at https://www.researchgate.net/profile/Bhavya-Tyagi-3
 
 <!---
