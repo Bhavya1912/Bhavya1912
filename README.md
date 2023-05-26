@@ -1,5 +1,5 @@
 ![Blue Illustrated General Grocery Supplies Online Service Grocery Facebook Cover (5)](https://github.com/Bhavya1912/banner/blob/main/Bhavya%20Tyagi.gif)
--  👋 Hi, I’m Bhavya Tyagi
+-  👋 Hi, I’m Bhavya Tyagi (bhavya-portfolio.vercel.app)
 - 👀 I’m interested in Machine Learning/Data Analytics
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to contribute on open source
